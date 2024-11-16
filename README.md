@@ -27,9 +27,10 @@ Closing: Fill small holes in the detected edges to enhance the structure.
 Show the original grayscale image, along with the results of the opening and closing operations for visual comparison.
 
 ## Program:
-
+```
 Developed By : HARINI M D
 Register Number: 212222230043
+```
 
 # Import the necessary packages
 ```python
